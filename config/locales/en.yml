@@ -1,24 +1,30 @@
 en:
   hello: "Hello world"
-
-  sample_app: "Sample App"
-  sample_app1: "This is the home page for the"
-  sample_app2: "sample application."
-
+  home: "Welcome to the Sample App"
+  home1: "This is the home page for the"
+  home2: "sample application."
+  sign_up_now: "Sign up now!"
+  rails_logo: "Rails logo"
   help: "Help"
   help1: "Get help on the Ruby on Rails Tutorial at the"
   help2: "To get help on this sample app, see the"
   help3: "book."
-
   contact: "Contact"
   contact1: "Contact the Ruby on Rails Tutorial about the sample app at the"
-
   about: "About"
   about1: "The"
   about2: "is a"
   about3: "and"
   about4: "to teach web development with"
   about5: "This is the sample application for the tutorial."
-
   title: "Ruby on Rails Tutorial"
   title1: "Ruby on Rails Tutorial Sample App"
+  footer1: "The"
+  footer2: "by"
+  sign_up: "Sign up"
+  sign_up_1: "This will be a signup page for new users."
+  news: "News"
+  michaelhartl: "Michael Hartl"
+  home: "Home"
+  help: "Help"
+  login: "Log in"

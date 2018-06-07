@@ -1,8 +1,11 @@
-<h1><%= t "sample_app" %></h1>
-<p>
-  <%= t "sample_app1" %>
-  <%= link_to "http://www.railstutorial.org/" do %>
-    <%= t "title" %>
-  <% end %>
-  <%= t "sample_app2" %>
-</p>
+<div class="center jumbotron">
+  <h1><%= t "home" %></h1>
+  <h2>
+    <%= t "home1" %>
+    <%= link_to t("title"), "http://www.railstutorial.org/" %>
+    <%= t "home2" %>
+  </h2>
+  <%= link_to t("sign_up_now"), signup_path, class: "btn btn-lg btn-primary" %>
+</div>
+<%= link_to image_tag("rails.png", alt: t("rails_logo")), "http://rubyonrails.org/" %>
+
