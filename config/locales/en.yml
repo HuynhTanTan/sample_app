@@ -28,4 +28,9 @@ en:
   home: "Home"
   help: "Help"
   login: "Log in"
-
+  success: "Welcome to the Sample App!"
+  name: "Name"
+  email: "Email"
+  password: "Password"
+  confirm: "Confirmation"
+  create: "Create my account"
