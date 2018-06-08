@@ -41,3 +41,12 @@ en:
   invalid_login_message: "Invalid email/password combination"
   profile: "Profile"
   settings: "Settings"
+  remember: "Remember me on this computer"
+  edit: "Edit user"
+  save_changes: "Save changes"
+  change: "change"
+  please_login: "Please log in."
+  all_users: "All users"
+  delete: "Delete"
+  you_sure: "You sure?"
+
