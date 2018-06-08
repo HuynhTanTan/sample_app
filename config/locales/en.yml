@@ -41,3 +41,4 @@ en:
   invalid_login_message: "Invalid email/password combination"
   profile: "Profile"
   settings: "Settings"
+  remember: "Remember me on this computer"
