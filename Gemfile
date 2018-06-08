@@ -6,6 +6,8 @@ end
 gem "rails", "~> 5.1.4"
 gem "bcrypt", "3.1.12"
 gem "bootstrap-sass", "3.3.7"
+gem "jquery-rails"
+gem "rails-settings-cached"
 gem "sqlite3"
 gem "puma", "~> 3.7"
 gem "sass-rails", "~> 5.0"
